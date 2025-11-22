@@ -1,0 +1,53 @@
+# Node / JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json.tmp
+
+# Build output
+/build/
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Runtime data
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and reports
+logs/
+*.log
+coverage/
+jest-cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated files
+*.swp
+*~ 
+~$*
+
+# Misc
+.pnp/
+.pnp.js
+.cache/
+coverage/
+
+# Windows OneDrive temporary files
+/~$*
+/~*.tmp
+.~*
+
+# Lockfiles — keep lock files in repo (don't ignore yarn.lock / package-lock.json)
+# End of file
